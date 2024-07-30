@@ -44,8 +44,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/240c0699-1dbe-4476-9a1e-3aa4e8387352> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/00c8bb5e-43db-43b7-99c9-0f093455f19a> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2004-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2004-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/00e4ab17-fa1e-3e25-b2a8-9c0a6d9c20f2> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900002017"^^XSD:string ;
@@ -93,8 +93,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/240c0699-1dbe-4476-9a1e-3aa4e8387352> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/05bb6983-0e91-4484-9ff8-7d3493438a1c> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2019-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2019-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2019-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2019-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/07120025-38d1-47ce-82e1-d833e42e88bb> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "2813" ;
@@ -108,8 +108,8 @@
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Courting couples in the Voyer d'Argeson Park in Asnieres' ['Garden with Courting Couples: Square Saint-Pierre'], Paris, May 1887, Van Gogh Museum, inv. nr. F314"@nl .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/07e8e782-8589-4bb0-85d8-bc4c315cb113> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2000-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2000-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/08463e31-1bc0-46e8-94de-4cb3bd51b917> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "2928" ;
@@ -157,8 +157,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/6e5da07f-8f5e-40b0-83b9-15c6523edc11> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/0bf39d41-ae51-4016-9d20-18c898ade5a4> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2002-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2002-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/0c3920eb-f073-38bb-8559-0d73a701fb7b> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "D2004-086" ;
@@ -207,8 +207,8 @@
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Mussels and shrimps' ['Prawns and Mussels'], Paris, September-November 1886, Van Gogh Museum, inv. nr. F256"@nl .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/0ec61793-2ce8-4856-9f87-d6f02c3c2a5d> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2000-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2000-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/0f2a243d-263f-3715-aa4a-4c5187d0f7f6> a crm:E33_E41_Linguistic_Appellation ;
     crm:P190_has_symbolic_content """Vincent van Gogh, 'Self-Portrait', Paris, July-August 1887, Van Gogh Museum, inv.nr. F269V\r
@@ -274,8 +274,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/70003ebd-15ba-4f93-9c0c-baac09ccff44> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/154ecf47-28a5-4614-b599-512d25d84c15> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2003-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2003-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2003-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2003-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/1596b4bd-7803-31ca-9cd3-d66682abd438> a crm:E33_E41_Linguistic_Appellation ;
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Vase with carnations', Paris, 1886, Detroit Institute of Arts, inv. nr. F243"@nl .
@@ -285,8 +285,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/70003ebd-15ba-4f93-9c0c-baac09ccff44> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/167b1c8b-d2c5-43bd-ada7-3d9fda957deb> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2019-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2019-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2019-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2019-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/16a5c046-42f6-3bb2-82bd-93a5e52ecedc> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "D1989-035" ;
@@ -304,16 +304,16 @@
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/1824f1ee-da92-4b38-b46e-b6c3a69f3548> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2003-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2003-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2003-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2003-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/182aaf4d-15c3-3d83-b992-831329b3c68f> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900002027"^^XSD:string ;
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/240c0699-1dbe-4476-9a1e-3aa4e8387352> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/183a458a-7b31-4c8b-ad6e-34efe6f8db39> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2002-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2002-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/18990cd2-b153-4a4d-8961-10f852224765> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "2633" ;
@@ -324,8 +324,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/6e5da07f-8f5e-40b0-83b9-15c6523edc11> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/1936246f-93fe-4655-9d95-3e97685f522c> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2003-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2003-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2003-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2003-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/1940eb98-4fb5-3c67-9d60-b91cd6fde9dc> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "D2002-031" ;
@@ -340,8 +340,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/240c0699-1dbe-4476-9a1e-3aa4e8387352> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/19a0f07e-e43c-49ac-b386-e333864d4923> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2000-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2000-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/19b5e910-b3b7-3c3f-a2d4-733a4124758b> a crm:E33_E41_Linguistic_Appellation ;
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Self-Portrait', Paris, March-June 1887, F267 ; 'Self-Portrait or Portrait of Theo van Gogh', Paris, Summer 1887, F294 ; and 'Self-Portrait', Paris, Summer 1887, F296, Van Gogh Museum"@nl .
@@ -389,12 +389,12 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/240c0699-1dbe-4476-9a1e-3aa4e8387352> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/1c70be32-31f5-4349-927c-e1b2e067ad36> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2007-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2007-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2007-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2007-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/1e3dbdc4-22e6-49fb-bd67-380692e75c7e> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2004-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2004-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/1e528f69-86be-3d1a-89b2-b946127ea959> crm:P190_has_symbolic_content "F522" ;
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
@@ -422,8 +422,8 @@
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Plaster figure of a male torso', Paris, June 1886, Van Gogh Museum, inv. nr. F216E"@nl .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/1ff08f5a-325f-4550-9a1d-91d2a465d6cc> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2003-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2003-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2003-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2003-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/207f1aca-9ec7-38a8-b176-754ec10e8e5e> crm:P190_has_symbolic_content "F234" ;
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
@@ -433,24 +433,24 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/240c0699-1dbe-4476-9a1e-3aa4e8387352> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/20a33126-01f0-47e7-a474-de7ab9653086> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2000-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2000-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/20d8fa08-b0ca-3bff-a6d2-346a47581cbe> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900001962"^^XSD:string ;
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/240c0699-1dbe-4476-9a1e-3aa4e8387352> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/21475889-e2da-4040-8183-b377fc1e68d7> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/21bc8654-8ab9-4ce6-827a-eb43af6a3e28> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2019-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2019-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2019-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2019-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/21dd24d0-ea7d-4de5-904c-211679800bea> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2018-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2018-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2018-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2018-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/22287ba0-23b1-3075-bd5c-3a344ea43f55> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "D2001-104" ;
@@ -476,8 +476,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/70003ebd-15ba-4f93-9c0c-baac09ccff44> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/23a3c3d5-0f5f-48ac-b69c-2a5f0b82cbe0> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2003-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2003-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2003-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2003-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/23e5c91f-b7d5-4fc5-8f49-f603cf0d3dae> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "1049" ;
@@ -488,8 +488,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/6e5da07f-8f5e-40b0-83b9-15c6523edc11> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/245a8325-06f0-46be-884d-bb6285054062> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2000-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2000-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/24dff248-dee4-3436-9110-1992c1ad7f03> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "D2002-044" ;
@@ -519,8 +519,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/be568e9e-9cab-48ef-b226-fd9d37b971b1> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/26096ec3-4144-4c87-8c00-c3206c101486> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2009-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2009-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2009-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2009-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/26abbea3-51d1-3151-994e-c02744e8fa3c> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900001726"^^XSD:string ;
@@ -539,8 +539,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/be568e9e-9cab-48ef-b226-fd9d37b971b1> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/2736263c-11ed-4b91-9e92-94774aab8df2> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2002-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2002-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/27a8d940-b7d1-3e6d-a86b-736bce36b2d9> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "2019-037" ;
@@ -562,8 +562,8 @@
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/296a8880-30b9-4a8b-a74a-86dd7cc276e5> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2004-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2004-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/29aa4157-d20a-3ba9-afea-932fc89b6b28> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900001975"^^XSD:string ;
@@ -585,12 +585,12 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/240c0699-1dbe-4476-9a1e-3aa4e8387352> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/2b1b8e03-3146-49b0-a8ca-8351f06ffe31> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2002-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2002-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/2b3e7ce4-5d54-49b7-a038-d7576c51bc42> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2000-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2000-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/2b59cb5a-b791-39b7-9853-90c52620ceac> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "D2000-093" ;
@@ -604,12 +604,12 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/6e5da07f-8f5e-40b0-83b9-15c6523edc11> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/2ba34767-1abd-4150-985d-ab2e1985bd5d> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2000-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2000-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/2bdd0240-b5ba-48df-9f0a-22d50b2c6cc6> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "1978-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "1978-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "1978-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "1978-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/2c70fb6f-250f-3d10-b5d2-182e8905c7bb> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900001973"^^XSD:string ;
@@ -651,8 +651,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/be568e9e-9cab-48ef-b226-fd9d37b971b1> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/3204369a-dfbf-4a33-bd23-623fe84b2162> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2002-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2002-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/323fd7cb-9410-3581-b0c8-7966c3d99f57> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "D2001-026" ;
@@ -749,8 +749,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/70003ebd-15ba-4f93-9c0c-baac09ccff44> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/3b0d3e4d-0c1a-4ad0-9aaf-a5796c773027> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2002-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2002-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/3b214e02-fcaf-34e8-8d49-7da479046316> crm:P190_has_symbolic_content "F216h" ;
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
@@ -759,8 +759,8 @@
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Schemering (Oude boerderijen te Loosduinen)', Den Haag, August 1883, Centraal Museum Utrecht, inv. nr. 21782 ; F16"@nl .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/3b6a838e-5863-4f14-9caa-96d096ea94c5> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2018-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2018-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2018-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2018-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/3ba24207-80c1-34d6-a7c9-c4bbcf50cf07> a crm:E33_E41_Linguistic_Appellation ;
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Still-life with lemons' ['Dish with Citrus Fruit'], Paris, February-March 1887, Van Gogh Museum, inv. nr. F338"@nl .
@@ -780,12 +780,12 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/be568e9e-9cab-48ef-b226-fd9d37b971b1> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/3e3edc8b-102c-460b-b376-ff0e9ef4159f> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2000-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2000-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/3f6c7c6e-3ad2-484b-a251-aedee887d8c5> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2020-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2020-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2020-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2020-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/3f6f00f0-f6f7-35ad-af01-c4d6f6d04959> crm:P190_has_symbolic_content "F778" ;
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
@@ -798,8 +798,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/be568e9e-9cab-48ef-b226-fd9d37b971b1> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/3fa3740b-0e1c-4411-90b8-e42766776312> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/3fbeb962-bb85-3a1b-93c6-eaf9ed66094c> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900003811"^^XSD:string ;
@@ -851,16 +851,16 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/70003ebd-15ba-4f93-9c0c-baac09ccff44> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/41c6be68-66f6-4edf-8ca3-d9f0949ef45f> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/41c88a51-114e-3d44-b6fe-ed4526e64b2a> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900002350"^^XSD:string ;
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/240c0699-1dbe-4476-9a1e-3aa4e8387352> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/41e9d38e-118b-4824-a426-ed85d7db3bb9> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/4207deee-f818-3ddb-b60d-8b4df8c7fe8c> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900003915"^^XSD:string ;
@@ -873,8 +873,8 @@
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/42c36457-7750-49e4-a954-d590fe01b1f2> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2003-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2003-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2003-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2003-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/4307deee-f818-3ddb-b60d-8b4df8c7fe8c> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900003972"^^XSD:string ;
@@ -899,8 +899,8 @@
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/43b94bfc-abbc-4beb-b3fd-571d8add1929> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/4407deee-f818-3ddb-b60d-8b4df8c7fe8c> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900004050"^^XSD:string ;
@@ -929,8 +929,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/240c0699-1dbe-4476-9a1e-3aa4e8387352> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/4560ec3e-e2bb-4029-9be0-44e57a83369d> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/45ab5b57-5925-3584-bf10-d249dbec72b8> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "D2018-100" ;
@@ -941,16 +941,16 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/be568e9e-9cab-48ef-b226-fd9d37b971b1> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/4648356c-7a5d-4b21-8fac-7bccd447156f> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2002-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2002-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/46866e72-3c77-3eb5-ace7-8124bd69cdc2> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "D2001-049" ;
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/70003ebd-15ba-4f93-9c0c-baac09ccff44> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/471b6f2f-ba4e-4e39-a95e-9636868bae48> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2002-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2002-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/475cadda-2dcc-3f07-9c87-7d04a9b3fd2c> crm:P190_has_symbolic_content "F388v" ;
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
@@ -969,8 +969,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/70003ebd-15ba-4f93-9c0c-baac09ccff44> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/490ad0e5-b79f-409a-b900-928a412e4bef> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2004-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2004-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/4929e196-2437-3ef9-a2f2-d235a086ce93> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900001928"^^XSD:string ;
@@ -981,8 +981,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/be568e9e-9cab-48ef-b226-fd9d37b971b1> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/49714f46-6dd2-4fae-a1c1-17c740962f54> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2019-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2019-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2019-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2019-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/49cf0686-1c1d-3172-b0b1-c0934afb8fb5> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900001678"^^XSD:string ;
@@ -1016,8 +1016,8 @@
     crm:P190_has_symbolic_content "Vincent van Gogh, 'De Houthakker (naar Millet)', 'The Woodcutter (after Millet)', Van Gogh Museum, Saint-Rémy, September 1889, inv. nr. F670"@nl .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/4d51e9b6-e79f-4080-aff5-f1a6e5ca99a3> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2022-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2022-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2022-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2022-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/4d77bae1-b319-3492-a8fb-07d9b0df301d> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900002014"^^XSD:string ;
@@ -1038,12 +1038,12 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/240c0699-1dbe-4476-9a1e-3aa4e8387352> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/5021feea-f0fa-48d8-981c-262356e006ca> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/503f8d33-f186-4fd3-b01d-519fa49db842> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2003-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2003-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2003-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2003-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/50704a2e-8ecc-3a65-a607-c213703e73ea> a crm:E33_E41_Linguistic_Appellation ;
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Gezicht op Parijs' ; 'View of Paris', Paris, June-July 1886, Van Gogh Museum, inv. nr. F261"@nl .
@@ -1060,38 +1060,38 @@
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/5195a97b-0134-4524-976f-ce381ccf472c> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2004-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2004-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/5207103e-c495-46f2-83b8-03e4c3c5a608> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2019-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2019-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2019-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2019-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/5264d972-1909-3413-b62d-6898dd2402a1> a crm:E33_E41_Linguistic_Appellation ;
     crm:P190_has_symbolic_content "Vincent van Gogh, 'De Zoeaaf' 'The Zouave', Arles, June 1888, Van Gogh Museum, inv. nr. F423"@nl .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/52658995-5c37-4a7d-9b24-cc408b3f2fda> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2002-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2002-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/52c910ea-1910-49e3-a03b-bbc14bdb4a9f> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/538125ad-92e7-39fe-b835-f638978ecd02> crm:P190_has_symbolic_content "F212" ;
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/5385002f-7a53-4225-9dc7-7d20579e9b96> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/5387de58-40c8-3f55-8322-0a482f7cc449> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "2021-152" ;
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/6e5da07f-8f5e-40b0-83b9-15c6523edc11> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/5396ef78-eafc-4de3-b1de-500f2e4a4727> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2000-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2000-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/53c6621a-6161-35fb-9ed9-1083e40c822b> crm:P190_has_symbolic_content "F779" ;
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
@@ -1103,8 +1103,8 @@
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Still-life with cabbages and onions' ['Red Cabbages and Onions'], Paris, October-November 1887, Van Gogh Museum, inv. nr. F374"@nl .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/544d48e8-fc71-4069-a4c4-28865bd2604b> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2004-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2004-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/545681ce-d880-3670-abeb-ed360b9d5598> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900002057"^^XSD:string ;
@@ -1115,8 +1115,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/6e5da07f-8f5e-40b0-83b9-15c6523edc11> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/546694bf-2f67-4155-a1c9-7383f13cb9c2> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/54779972-760d-3679-8689-80948605d723> a crm:E33_E41_Linguistic_Appellation ;
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Korenveld met kraaien' ; 'Wheatfield with Crows', Auvers-sur-Oise, July 1890, Van Gogh Museum, inv. nr. F779"@nl .
@@ -1152,8 +1152,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/240c0699-1dbe-4476-9a1e-3aa4e8387352> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/56b5892f-7f17-4589-91e8-799f158c3a7f> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2000-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2000-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/574832eb-0279-3e0a-8408-7942534b5563> crm:P190_has_symbolic_content "F524" ;
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
@@ -1185,8 +1185,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/be568e9e-9cab-48ef-b226-fd9d37b971b1> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/594728bc-0a38-40ad-880c-5ce2555d15bf> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/59ef14f6-b0ad-34e3-8bba-c59d3e1364f5> crm:P190_has_symbolic_content "F232" ;
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
@@ -1195,8 +1195,8 @@
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/5a60ba51-f0b2-4878-9d9b-20d3703685af> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/5a712784-d10f-3b36-a0a6-050a30d1f3e8> crm:P190_has_symbolic_content "F586" ;
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
@@ -1206,8 +1206,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/be568e9e-9cab-48ef-b226-fd9d37b971b1> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/5baf033f-f0fe-4b93-a7fd-7d7fcbaa437a> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2021-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2021-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2021-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2021-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/5c87da0e-8be6-3085-963b-49116512cccd> a crm:E33_E41_Linguistic_Appellation ;
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Head of a man', F209, collection National Gallery of Victoria (Melbourne, Australia)"@nl .
@@ -1220,8 +1220,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/70003ebd-15ba-4f93-9c0c-baac09ccff44> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/5d07db4b-d64a-4d86-ab35-66abf140dc56> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2002-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2002-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/5d0bf60e-d11a-3f46-b5c6-9fca1e1fb6b2> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900001990"^^XSD:string ;
@@ -1252,8 +1252,8 @@
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/5eb87d2d-d6d4-4840-8713-2d8a86b36685> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2002-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2002-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/5ecd4856-f369-441f-88a3-1f6cb78941c9> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "1525" ;
@@ -1316,8 +1316,8 @@
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Self-Portrait', Paris, March-June 1887, Van Gogh Museum, inv. nr. F267"@nl .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/624cb036-b7e1-41ed-9b17-4164c08e66f0> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/627c84d0-1959-456f-ab05-880e5aa195a7> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "3088" ;
@@ -1365,8 +1365,8 @@
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Portrait of a seated woman with gloves' ['Portrait of a Woman'], Paris, March-June 1886, Van Gogh Museum, inv. nr. F215D"@nl .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/65e43541-0b83-4075-ade6-9d9a8b1f2d45> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2003-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2003-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2003-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2003-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/66759d68-83bf-3c4a-beee-28a77a968d9c> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900001995"^^XSD:string ;
@@ -1383,8 +1383,8 @@
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/67d17d01-ff37-4845-8789-a8e9e920de7f> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2007-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2007-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2007-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2007-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/67e1f038-47e3-38f6-9bf0-5dea9faaa0bd> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900001667"^^XSD:string ;
@@ -1406,16 +1406,16 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/70003ebd-15ba-4f93-9c0c-baac09ccff44> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/696f498c-bea3-4748-bcba-5c3fd808ed8a> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2019-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2019-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2019-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2019-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/6a72380e-6883-4f87-8eb7-73f8ddc4afe9> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "2946" ;
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/be568e9e-9cab-48ef-b226-fd9d37b971b1> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/6a8ba08d-5ec5-4849-82ef-bca95135d135> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2002-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2002-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/6ad72f9d-7ee6-37d1-bdf2-30731b742f25> crm:P190_has_symbolic_content "F314" ;
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
@@ -1432,8 +1432,8 @@
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Vaas met anjers' ['Vase with Carnations'], Paris, 1886, Stedelijk Museum Amsterdam, inv. nr. F245"@nl .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/6b96c00b-e901-43d3-9811-d240cb13b906> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2000-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2000-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/6bc77156-bfd5-318b-92e7-288d9264edf7> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "D2001-027" ;
@@ -1447,12 +1447,12 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/be568e9e-9cab-48ef-b226-fd9d37b971b1> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/6cbcef02-ed3a-4c5d-ad76-2b03ff6e5cd5> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2004-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2004-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/6d2e7f62-c4dd-41e7-a5ba-017059e39d0d> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2002-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2002-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/6dce1714-175a-30e3-9546-4cc23c48854e> crm:P190_has_symbolic_content "F269v" ;
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
@@ -1465,8 +1465,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/70003ebd-15ba-4f93-9c0c-baac09ccff44> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/6ebab045-ba73-4b25-bde6-22e1795fc1b4> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2004-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2004-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/6eda0840-ffe5-3e2c-9e5c-22fdb5043cdf> a crm:E33_E41_Linguistic_Appellation ;
     crm:P190_has_symbolic_content "'Het uitgaan van de Hervormde Kerk te Nuenen', Vincent van Gogh, Nuenen, januari-februari 1884 en herfst 1885, Van Gogh Museum, F25"@nl .
@@ -1476,12 +1476,12 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/70003ebd-15ba-4f93-9c0c-baac09ccff44> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/6fdaa9be-54fc-4ffd-997d-c49320b208d1> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/6fde2461-bd43-4c37-a7e3-0731549addc8> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/6ff238f7-205d-3296-922b-2ec0f97aecf3> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900001992"^^XSD:string ;
@@ -1496,8 +1496,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/240c0699-1dbe-4476-9a1e-3aa4e8387352> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/718f211c-df6a-4993-bce2-7f529f7f54d6> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2004-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2004-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/71ff4a97-13e0-3c33-a2f2-7ec1deaf1d5d> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900001954"^^XSD:string ;
@@ -1526,8 +1526,8 @@
     crm:P190_has_symbolic_content "Vincent van Gogh, 'De Heuvel van Montmartre met steengroeve' ; 'The Hill of Montmartre with Stone Quarry', Paris, June-July 1886, Van Gogh Museum, inv. nr. F230"@nl .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/732a798a-067a-4f4d-b1d8-e576b8dc08c7> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2000-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2000-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/736383b2-6159-309e-83d9-606d94e07291> a crm:E33_E41_Linguistic_Appellation ;
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Basket with sprouted bulbs' ['Basket of Crocus Bulbs'], Paris, Januari-Februari 1887, Van Gogh Museum, F334"@nl .
@@ -1537,8 +1537,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/be568e9e-9cab-48ef-b226-fd9d37b971b1> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/7375c191-8f9b-4c8e-ab00-a8318b27a2f7> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2004-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2004-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/737a0237-07aa-447f-8921-b4846c074eba> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "2815" ;
@@ -1562,8 +1562,8 @@
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/74956a86-78ea-44f7-99ae-3c3acbfc4cad> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/74b19231-5b4b-3e42-b892-3f512d82c066> a crm:E33_E41_Linguistic_Appellation ;
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Flowerpot with Garlic Chives', Paris, January-February 1887, Van Gogh Museum, inv. nr. F337"@nl .
@@ -1611,8 +1611,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/70003ebd-15ba-4f93-9c0c-baac09ccff44> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/78c3175a-fa15-4453-8490-a5ab23acb550> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "1978-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "1978-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "1978-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "1978-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/791ef385-9404-3bcd-b977-0892eaeaefa7> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "D2001-055" ;
@@ -1690,12 +1690,12 @@
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/7f6f8321-0ecf-4159-a5ba-aaebdbe3ea1a> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2000-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2000-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/7fa89028-0368-45a2-acce-7c25e57f3424> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/801ef385-9404-3bcd-b977-0892eaeaefa7> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "D2019-139" ;
@@ -1768,8 +1768,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/70003ebd-15ba-4f93-9c0c-baac09ccff44> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/843530e8-77fe-453c-906b-4ff3feb96f04> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2004-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2004-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/84564ed5-0ee2-382b-a6e8-fc6e1e19b874> crm:P190_has_symbolic_content "F528" ;
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
@@ -1802,12 +1802,12 @@
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/86a91c56-3709-4118-97e2-b0c1816957a5> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2004-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2004-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/86f6ca45-692d-4b92-be80-c367efd8104e> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/874a22f8-1a82-4e79-9af8-ed9c5275dbe3> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "2931" ;
@@ -1817,8 +1817,8 @@
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Wheatfield under Thunderclouds', Auvers-sur-Oise, July 1890, Van Gogh Museum, inv. nr. F778"@nl .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/884bc657-65af-4288-a3cc-590d77403611> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2007-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2007-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2007-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2007-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/88d46415-21fc-3f6a-8306-0a68d05f0310> a crm:E33_E41_Linguistic_Appellation ;
     crm:P190_has_symbolic_content "Vincent van Gogh, Olive grove (F586), 1889, collection Göteborgs Konstmuseum, Göteborg"@nl .
@@ -1847,8 +1847,8 @@
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/8b5b2367-25b4-48d3-8c70-70ec7b017eae> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/8bbe3c3f-ea9a-365f-a846-eb75c1780a2a> a crm:E33_E41_Linguistic_Appellation ;
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Lemons, pears, apples, grapes and an orange' ['Quinces, Lemons, Pears and Grapes'], Paris, September-October 1887, Van Gogh Museum, inv. nr. F383"@nl .
@@ -1980,8 +1980,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/70003ebd-15ba-4f93-9c0c-baac09ccff44> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/95751e60-6860-4be0-8254-091b8e20b092> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2000-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2000-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/95a85079-6634-3482-9fd4-3fc1b023a8cd> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900001980"^^XSD:string ;
@@ -2015,15 +2015,15 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/70003ebd-15ba-4f93-9c0c-baac09ccff44> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/99411107-8f8e-42cc-8ef9-a60ad9769d7e> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "1990-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "1990-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "1990-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "1990-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/998dc297-f401-3f5a-b74a-7deb7a72f5a1> a crm:E33_E41_Linguistic_Appellation ;
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Portret van een prostituee' ; 'Portrait of a Prostitute', Antwerp, December 1885, Van Gogh Museum, inv. nr. F207A"@nl .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/999c3595-0f25-4abd-809f-338f8477690e> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/9a3ace2e-af43-3c03-ab12-c7154b16fda6> a crm:E33_E41_Linguistic_Appellation ;
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Still life with bread', Paris, 1886, Van Gogh Museum, inv. nr. F253a ; S192V"@nl .
@@ -2036,8 +2036,8 @@
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/9a9fa7ee-8a19-47eb-8aae-978128b67b8b> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2014-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2014-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2014-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2014-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/9aaaf62e-837a-3b25-8243-be9c47ae1578> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "D2001-023" ;
@@ -2077,15 +2077,15 @@
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/9d67e4e3-f540-4085-9180-3b8e4d03d1fa> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2003-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2003-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2003-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2003-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/9db5c29b-7dde-32e1-9289-0e9318517f4e> a crm:E33_E41_Linguistic_Appellation ;
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Plaster figure of a musculature model' ['Kneeling Ecorché'], Paris, June 1886, Van Gogh Museum, inv. nr. F216F"@nl .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/9db60316-92be-403c-a95c-f3f83ad75053> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2003-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2003-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2003-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2003-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/9dd722d6-50be-396b-a995-81ce6dce7330> a crm:E33_E41_Linguistic_Appellation ;
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Still life with basket and lemons' ['Carafe and Dish with Citrus Fruit'], Paris, February-March 1887, Van Gogh Museum, inv. nr. F340"@nl .
@@ -2120,8 +2120,8 @@
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Ossenkar', Nuenen, juli 1884, Kröller-Müller Museum, cat. nr. KM 110.256, F38"@nl .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/a13646c7-3a31-4b21-8437-02f4cd01b85a> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2002-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2002-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/a1e4a1d1-eb36-3dc6-b4c0-c5234142efeb> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900001684"^^XSD:string ;
@@ -2154,8 +2154,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/70003ebd-15ba-4f93-9c0c-baac09ccff44> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/a539e34c-ff43-4077-9d4c-c90713b2fb04> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2003-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2003-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2003-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2003-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/a5772de8-3fb7-4b0c-8528-5fbbfa584dee> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "2748" ;
@@ -2165,20 +2165,20 @@
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/a6610ef6-f6fb-42b0-86a0-80120f35c096> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2002-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2002-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/a70a423e-f015-3bb0-8dc4-77c253fa6de2> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900001987"^^XSD:string ;
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/240c0699-1dbe-4476-9a1e-3aa4e8387352> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/a720cfcc-8191-44d0-962c-b4a78a960b35> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2004-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2004-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/a790777c-ec19-4f55-9f3d-44c40a07a7ed> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2000-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2000-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/a7b9064c-c7bf-37e6-9e05-b353eb9beced> a crm:E33_E41_Linguistic_Appellation ;
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Still life with wine, bread and cheese', Paris, Van Gogh Museum, inv. nr. F253 ; S191V"@nl .
@@ -2225,8 +2225,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/240c0699-1dbe-4476-9a1e-3aa4e8387352> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/abdee385-9ea3-4cbb-a81d-3f13dfa7cf94> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2002-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2002-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/abe57536-7f97-3819-9be2-19f000ad75a5> crm:P190_has_symbolic_content "F216c" ;
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
@@ -2240,8 +2240,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/240c0699-1dbe-4476-9a1e-3aa4e8387352> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/ac8bf3e4-94bb-4df1-852d-2c962b8c14ea> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/ac92e0db-ec21-338a-8a8f-d0dcd65b612d> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "2016-010" ;
@@ -2286,8 +2286,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/240c0699-1dbe-4476-9a1e-3aa4e8387352> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/aef9aa9e-fba9-4b4a-939c-4ff5c09903f1> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/af586c8e-90ed-3791-afdb-f393702c78c1> crm:P190_has_symbolic_content "F513" ;
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
@@ -2309,8 +2309,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/be568e9e-9cab-48ef-b226-fd9d37b971b1> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/b16390f3-9d98-40f8-9f3c-4e6b5fb61aa2> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/b1a08029-fbcc-3b4b-a5a6-b68166287dcf> crm:P190_has_symbolic_content "F670" ;
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
@@ -2335,16 +2335,16 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/6e5da07f-8f5e-40b0-83b9-15c6523edc11> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/b271c001-8f31-4ed5-8d08-7caa853f4a57> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2000-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2000-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/b2ccb474-1ee0-3523-9139-b2d0bf15d9de> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900002031"^^XSD:string ;
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/240c0699-1dbe-4476-9a1e-3aa4e8387352> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/b375128b-ad84-48dd-8c71-8c189600ff5e> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2002-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2002-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/b390aaf5-d63d-3215-a628-0cbf8032c57b> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "2019-029" ;
@@ -2366,8 +2366,8 @@
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Flame nettle in a flowerpot', Paris, June-July 1886, Van Gogh Museum, inv. nr. F281"@nl .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/b44eca08-b572-4126-ba75-c9d3ca40d2b8> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2010-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2010-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2010-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2010-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/b484bedc-0ebd-3085-887b-0e80503e3e77> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900002028"^^XSD:string ;
@@ -2402,8 +2402,8 @@
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/b67bba80-5d83-4ae1-bcc0-0fbb08f12333> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/b688ab04-3572-3299-8673-a293f976ed67> a crm:E33_E41_Linguistic_Appellation ;
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Allotments on Montmartre',['Montmartre: Behind the Moulin de la Galette'], Paris, July 1887, Van Gogh Museum, inv. nr. F316"@nl .
@@ -2430,8 +2430,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/240c0699-1dbe-4476-9a1e-3aa4e8387352> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/b7526c5a-0f1c-4283-8c45-f754be0349e1> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/b785294c-c0ce-394a-9d8c-2a9617b8cd88> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900001700"^^XSD:string ;
@@ -2445,12 +2445,12 @@
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/b851bb22-4239-455c-bed3-f46022a0ec9f> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/b8562934-b7c6-40a8-a4a5-9741ae9f0a8b> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2003-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2003-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2003-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2003-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/b8729ad8-8303-4901-902d-930b39d3ac0f> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "3122" ;
@@ -2479,8 +2479,8 @@
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Plaster Cast of a Woman's Torso', Paris, February-March 1887, Van Gogh Museum, inv. nr. F216H"@nl .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/b953a912-2e4e-425c-9307-5a2ac68e17ac> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2020-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2020-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2020-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2020-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/b984a341-f705-4291-a266-443a52bd2ad0> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "2753" ;
@@ -2494,8 +2494,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/be568e9e-9cab-48ef-b226-fd9d37b971b1> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/baa80f66-b846-4501-8f9c-d414646a31ca> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/bac1a4ce-f3fe-3aed-a6dc-9662c8acaaf3> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "D2001-046" ;
@@ -2509,16 +2509,16 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/70003ebd-15ba-4f93-9c0c-baac09ccff44> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/badc6025-d005-41a6-b075-1dde9f4fc3f8> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2019-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2019-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2019-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2019-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/bb6d3fb9-abcc-3759-9558-6aade44abe8c> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900002005"^^XSD:string ;
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/240c0699-1dbe-4476-9a1e-3aa4e8387352> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/bbbbe7e4-2e9b-48b8-a30c-3f5ed8a5ed14> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2000-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2000-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/bbc5b4cd-c7a2-392f-9f90-49a9bd71c88d> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900002038"^^XSD:string ;
@@ -2544,8 +2544,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/be568e9e-9cab-48ef-b226-fd9d37b971b1> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/bcae6e3a-807c-44c2-8273-f67028fd712e> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2003-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2003-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2003-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2003-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/bceff46c-ec07-32ea-86d3-f32499c981d5> crm:P190_has_symbolic_content "F177a" ;
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
@@ -2569,8 +2569,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/be568e9e-9cab-48ef-b226-fd9d37b971b1> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/bedafee9-2422-4a87-aed8-f6b44a5d82ee> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2000-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2000-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/bf358546-857c-3c35-971a-e0e14f5e1587> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "D2019-147" ;
@@ -2584,8 +2584,8 @@
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Cypresses and Two Women', Saint-Rémy, February 1890, Van Gogh Museum, inv. nr. F621"@nl .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/bfe40dab-7b68-49e9-be19-2ac4d70860e9> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/c027a526-53b7-4197-bad6-38cdadd147db> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "2948" ;
@@ -2641,8 +2641,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/be568e9e-9cab-48ef-b226-fd9d37b971b1> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/c275d43f-83f5-4549-b306-10461be0d847> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/c29a6dd3-7a93-3f23-8eea-b779c2552845> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900002009"^^XSD:string ;
@@ -2657,8 +2657,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/240c0699-1dbe-4476-9a1e-3aa4e8387352> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/c2dfa1fd-31fb-4bc9-bcbb-ed158079288b> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2000-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2000-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/c34e6260-d19a-4c18-935c-4cd7895b8477> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "2706" ;
@@ -2697,20 +2697,20 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/be568e9e-9cab-48ef-b226-fd9d37b971b1> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/c5d685f1-952f-413c-a09d-d18a140809c0> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2000-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2000-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/c5dcd785-98fc-406c-ae74-91c0eb03e197> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/c623d215-8ee1-3c20-892a-a6114a4a166b> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "D2003-011" ;
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/70003ebd-15ba-4f93-9c0c-baac09ccff44> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/c68caabb-d101-4c1c-a697-18d02c6d6b4f> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "1989-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "1989-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "1989-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "1989-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/c6b3a7df-b9d7-316b-8e38-605c9c2223de> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900001665"^^XSD:string ;
@@ -2743,8 +2743,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/70003ebd-15ba-4f93-9c0c-baac09ccff44> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/c878095f-11f3-4001-97b2-8bdd8685b6be> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/c89fa1aa-88e8-3f77-a6b3-700fe4ec3edf> a crm:E33_E41_Linguistic_Appellation ;
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Portrait of restaurant owner, probably Lucien Martin' ['Portrait of Etienne-Lucien Martin'], Paris, November 1887, Van Gogh Museum, inv. nr. F289"@nl .
@@ -2761,8 +2761,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/240c0699-1dbe-4476-9a1e-3aa4e8387352> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/ca1bd9a7-7ed5-4581-bbbb-41c306d611ea> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/ca6e2763-1eb0-3e0c-8253-dab8eb08dc55> crm:P190_has_symbolic_content "F243a" ;
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
@@ -2772,8 +2772,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/6e5da07f-8f5e-40b0-83b9-15c6523edc11> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/cac30418-3678-4d54-b3e0-ff0be56ae4dd> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/cb574388-c77e-3bba-af43-e270da547fd8> a crm:E33_E41_Linguistic_Appellation ;
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Boomwortels' ['Tree Roots'], Auvers-sur-Oise, July 1890, Van Gogh Museum, inv. nr. F816"@nl .
@@ -2798,8 +2798,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/70003ebd-15ba-4f93-9c0c-baac09ccff44> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/cc72b6ab-af18-4c41-a642-f0465ee39d44> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2020-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2020-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2020-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2020-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/cccdec0b-7db4-366a-adb0-22060997c047> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900002048"^^XSD:string ;
@@ -2850,8 +2850,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/240c0699-1dbe-4476-9a1e-3aa4e8387352> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/cf92c992-3ef4-492a-9b88-d3d5e517329d> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/cfe21d7e-8f2f-3538-8a8d-e45798471ffc> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "1996-145" ;
@@ -2873,12 +2873,12 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/70003ebd-15ba-4f93-9c0c-baac09ccff44> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/d0a6e89d-de87-4005-a4e1-918a9e1613eb> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2004-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2004-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/d0e51de1-416e-4602-b933-73bf0f1b3156> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/d1a97921-6de8-319a-8340-96cee2772854> crm:P190_has_symbolic_content "F4" ;
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
@@ -2891,8 +2891,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/240c0699-1dbe-4476-9a1e-3aa4e8387352> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/d238caae-cd60-499c-bcdf-1ac43e76f89f> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/d25c332a-5ad7-3e71-8a1c-5b9e66eac59c> crm:P190_has_symbolic_content "F630" ;
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
@@ -2912,8 +2912,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/240c0699-1dbe-4476-9a1e-3aa4e8387352> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/d39845ee-7d42-4bab-b3ef-348cd3306434> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2000-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2000-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/d39fcd79-6937-3474-90d4-cd80d100cb79> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "D2001-087" ;
@@ -2949,20 +2949,20 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/240c0699-1dbe-4476-9a1e-3aa4e8387352> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/d5eb85a7-b7de-46ae-9918-f4e21285b1f6> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2003-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2003-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2003-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2003-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/d63ea090-6ebb-4769-91d2-7427ae2636e1> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2002-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2002-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/d674040d-d646-3a92-a8e4-d5bea09c5376> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "2019-147" ;
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/6e5da07f-8f5e-40b0-83b9-15c6523edc11> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/d680263f-cdac-4984-a2b3-e60cb9ac5ce5> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2002-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2002-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/d6d602f0-8813-3ffd-8c4b-0f89c8d4b70f> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900001668"^^XSD:string ;
@@ -2988,12 +2988,12 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/be568e9e-9cab-48ef-b226-fd9d37b971b1> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/d8ac1464-a18d-407f-8145-5f44771f9ea2> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/d9639d82-c873-4124-857d-bc46fb40674b> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "1999-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "1999-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "1999-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "1999-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/d9647d94-5f42-382e-957e-2f8097a4ad0e> a crm:E33_E41_Linguistic_Appellation ;
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Self-Portrait with Grey Felt Hat', Paris, September-October 1887, Van Gogh Museum, inv. nr. F344"@nl .
@@ -3003,20 +3003,20 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/be568e9e-9cab-48ef-b226-fd9d37b971b1> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/da4e5552-0a11-481d-a601-1f2ad4f62338> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2002-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2002-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/da72ba15-4267-3bad-ac9e-3c56f2b529fa> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900001959"^^XSD:string ;
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/240c0699-1dbe-4476-9a1e-3aa4e8387352> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/db88ed8a-45a8-4b41-993e-4c5d880a72de> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2020-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2020-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2020-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2020-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/db8d3f2a-02dd-4af4-bd34-988b3de0f2bd> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2000-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2000-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/dc4d2358-4523-315e-b470-5f69ae49f48a> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900001734"^^XSD:string ;
@@ -3027,8 +3027,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/70003ebd-15ba-4f93-9c0c-baac09ccff44> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/dc95c8f9-f308-47b9-a37f-124846bee859> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2007-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2007-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2007-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2007-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/dc96de97-6e54-3add-9af0-018254baa8b2> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "D2001-083" ;
@@ -3047,8 +3047,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/be568e9e-9cab-48ef-b226-fd9d37b971b1> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/dd3c2c50-ace0-4103-acc2-2cb8a48191d9> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2004-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2004-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/dd608424-3c6b-3375-9039-2dbe87b6ad44> crm:P190_has_symbolic_content "F216g" ;
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
@@ -3057,8 +3057,8 @@
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Gipsen vrouwentorso' ['Torso of Venus'], Paris, June 1886, Van Gogh Museum, inv. nr. F216B"@nl .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/dde7c850-3988-4f94-9b07-6c1f62803d3a> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/de0425d8-4451-3edf-a135-10cf5d0d36c0> a crm:E33_E41_Linguistic_Appellation ;
     crm:P190_has_symbolic_content "The Discolouration of Eosin-Containing Flesh Tones in Vincent van Gogh’s Late Portraits [collectie Kröller-Müller Museum, inv. nr. KM 106.498 / F518]"@nl .
@@ -3067,8 +3067,8 @@
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/de56cdca-577a-45b5-8ac5-27b3302b4d2d> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "1997-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "1997-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "1997-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "1997-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/de74157c-e799-35a8-9ce5-a45b0c8c14a3> a crm:E33_E41_Linguistic_Appellation ;
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Boerderij in het koren' ['Farmhouse in a Wheatfield'], Arles, mei 1888, Van Gogh Museum, inv.nr. F408"@nl .
@@ -3088,12 +3088,12 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/be568e9e-9cab-48ef-b226-fd9d37b971b1> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/dfc5e3ed-8891-4af0-9d7b-f4cd8c2b1d7a> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "1993-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "1993-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "1993-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "1993-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/dfff67dc-0ab9-4227-beec-8705e4e55ee4> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/e0212751-a28b-3ea4-b9b3-f28a3667cbc7> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "D2003-010" ;
@@ -3120,8 +3120,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/70003ebd-15ba-4f93-9c0c-baac09ccff44> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/e20611a3-f2d0-4538-8155-61a68ba9fa1f> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2019-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2019-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2019-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2019-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/e2acdeaf-abd0-3624-b680-cb4d07b9cd37> a crm:E33_E41_Linguistic_Appellation ;
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Weg te Montmartre' ; 'Path in Montmartre', Paris, April-May 1886, Van Gogh Museum, inv. nr. F232"@nl .
@@ -3175,16 +3175,16 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/be568e9e-9cab-48ef-b226-fd9d37b971b1> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/e636a774-80e7-4935-a345-b20a3b181e6c> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/e6a43fb6-af86-414f-baf5-adb3df37556a> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "2919" ;
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/be568e9e-9cab-48ef-b226-fd9d37b971b1> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/e70b9c68-6cca-4b96-8766-017c9db671fc> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2003-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2003-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2003-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2003-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/e7172991-b892-396a-99c6-a23e36299577> a crm:E33_E41_Linguistic_Appellation ;
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Amandelbloesem' ; 'Almond Blossom', Saint-Rémy, February 1890, Van Gogh Museum, F671"@nl .
@@ -3194,8 +3194,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/240c0699-1dbe-4476-9a1e-3aa4e8387352> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/e7c65069-b5a3-4467-9397-f60d2b7977cd> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/e7f5b61f-1b23-3546-9616-1a753d9b5aad> a crm:E33_E41_Linguistic_Appellation ;
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Backs of houses' ['Houses Seen from the Back'], Antwerp, December 1885-February 1886, Van Gogh Museum, inv. nr. F260"@nl .
@@ -3235,12 +3235,12 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/240c0699-1dbe-4476-9a1e-3aa4e8387352> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/e97ff44f-ab9a-44a6-90be-cc674969ed53> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "1997-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "1997-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "1997-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "1997-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/ea135aa1-faea-48f8-bb17-40b90d97d980> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2000-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2000-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2000-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/ea419e4c-fe04-391d-ae11-fa8d4f677119> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900003785"^^XSD:string ;
@@ -3257,12 +3257,12 @@
     crm:P190_has_symbolic_content "'Stilleven met baardmankruik', Vincent van Gogh, Nuenen, 1884 : onderzoek naar verfopbouw en uitbloei [collectie Kröller-Müller Museum, inv. nr. KM 104.313, F52]"@nl .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/ead4818b-f9a2-4c03-af17-f425cb104a19> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/ebca48a0-6408-42d6-ab03-75aa63a5bb77> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/ebebc363-9d03-3d2e-9c32-856d93e0ea73> crm:P190_has_symbolic_content "F356" ;
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
@@ -3275,8 +3275,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/70003ebd-15ba-4f93-9c0c-baac09ccff44> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/ec92935a-b2a2-48d3-b9d5-830203c4146c> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2020-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2020-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2020-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2020-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/ecb30888-c079-3ac6-a1be-0b671248f3b8> a crm:E33_E41_Linguistic_Appellation ;
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Garden with a sunflower in Montmartre' ['Allotment with Sunflower'], Paris, July 1887, Van Gogh Museum, inv. nr. F388V"@nl .
@@ -3285,8 +3285,8 @@
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/ed0d9173-ff52-43a3-a609-97dbb6e7d462> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "1993-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "1993-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "1993-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "1993-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/ed12061e-2543-306d-ad75-0f44ad5f7a87> crm:P190_has_symbolic_content "F1639" ;
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
@@ -3327,8 +3327,8 @@
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/f15c0c93-0035-4529-918a-118c0066e78b> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2001-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2001-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2001-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/f17637d8-abee-4451-a041-4a6fea4b39d6> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "2630" ;
@@ -3348,12 +3348,12 @@
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/f2e53095-8c84-4325-9824-9235526a46f6> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2002-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2002-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/f2fe858f-5cbc-4ade-acc2-f5ef9b60d800> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2002-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2002-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2002-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/f300467d-67e0-3464-9838-6c620359f46c> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900001685"^^XSD:string ;
@@ -3364,12 +3364,12 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/70003ebd-15ba-4f93-9c0c-baac09ccff44> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/f3bbfd8a-57ec-4caf-94ad-b90bdb578cf9> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2022-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2022-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2022-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2022-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/f474edea-dc25-463d-9e03-ec3a6f4cbe79> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2004-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2004-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/f4b84ef4-9c78-3313-87d4-bc16d9c427d3> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900001971"^^XSD:string ;
@@ -3427,15 +3427,15 @@
     crm:P190_has_symbolic_content "Vincent van Gogh, 'Self-Portrait', Paris, 1887, Wadsworth Atheneum Museum of Art, F268"@nl .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/f6a188fc-f722-4566-8e1a-374c40e570f1> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2004-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2004-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2004-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/f796a2f0-4338-3b54-8c2d-523dce0a6652> a crm:E33_E41_Linguistic_Appellation ;
     crm:P190_has_symbolic_content "Vincent van Gogh (?), 'Moulin de la Galette', Paris, 1886, Museum de Fundatie (Zwolle)"@nl .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/f86014c7-d0a8-452a-a74b-a1bb7ef87cf2> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2019-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2019-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2019-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2019-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/f88f39ba-fbda-4933-9d71-730e5419409d> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "2956" ;
@@ -3490,8 +3490,8 @@
     crm:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/fd616f7a-952c-4df4-a1a6-e6fa3747e336> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2009-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2009-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2009-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2009-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/fd625d92-8f4f-38c0-9646-bc4fe4a647ae> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "900002010"^^XSD:string ;
@@ -3508,8 +3508,8 @@
     crm:P2_has_type <https://data.cultureelerfgoed.nl/term/id/rn/70003ebd-15ba-4f93-9c0c-baac09ccff44> .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/ffb27318-044a-4cc0-9f01-7d27c37fa821> a crm:E52_Time-Span ;
-    crm:P82a_begin_of_the_begin "2019-01-01"^^XSD:Date ;
-    crm:P82b_end_of_the_end "2019-12-31"^^XSD:Date .
+    crm:P82a_begin_of_the_begin "2019-01-01"^^XSD:date ;
+    crm:P82b_end_of_the_end "2019-12-31"^^XSD:date .
 
 <https://linkeddata.cultureelerfgoed.nl/id/vgww/fff4c2c5-e91e-3987-9987-d8a58f8ec96b> a crm:E42_Identifier ;
     crm:P190_has_symbolic_content "D2016-010" ;
@@ -3554,7 +3554,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/05bb6983-0e91-4484-9ff8-7d3493438a1c> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/05bb6983-0e91-4484-9ff8-7d3493438a1c> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006922> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/9484fc09-a41c-3e8d-a9c2-96d6ac250c00> .
 
@@ -3612,7 +3612,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/b851bb22-4239-455c-bed3-f46022a0ec9f> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/b851bb22-4239-455c-bed3-f46022a0ec9f> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/6fa2a607-165a-3ba9-b417-97406e9dfa53> .
 
@@ -3627,7 +3627,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379403>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/f3bbfd8a-57ec-4caf-94ad-b90bdb578cf9> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/f3bbfd8a-57ec-4caf-94ad-b90bdb578cf9> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006922> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/90bdda65-8a01-37d3-9bb3-78bb59670c4c> .
 
@@ -3662,7 +3662,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/ffb27318-044a-4cc0-9f01-7d27c37fa821> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/ffb27318-044a-4cc0-9f01-7d27c37fa821> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006922> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/0772979f-60b0-31be-8881-7ebca5f8a02d> .
 
@@ -3678,7 +3678,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/1e3dbdc4-22e6-49fb-bd67-380692e75c7e> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/1e3dbdc4-22e6-49fb-bd67-380692e75c7e> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/5412238d-9dc5-3980-b466-f02f7abefc38> .
 
@@ -3693,7 +3693,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379403>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/e70b9c68-6cca-4b96-8766-017c9db671fc> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/e70b9c68-6cca-4b96-8766-017c9db671fc> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/99e7ee46-d02e-3e8d-bbfc-616aa1bebebc> .
 
@@ -3721,7 +3721,7 @@
         <http://vocab.getty.edu/aat/300379418>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/1936246f-93fe-4655-9d95-3e97685f522c> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/1936246f-93fe-4655-9d95-3e97685f522c> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/9332f1b4-0b22-3857-8451-bda95fcd6219> .
 
@@ -3735,7 +3735,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/f6a188fc-f722-4566-8e1a-374c40e570f1> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/f6a188fc-f722-4566-8e1a-374c40e570f1> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/924e8db2-7022-3904-b39c-28bf23c8ed5b> .
 
@@ -3761,7 +3761,7 @@
         <http://vocab.getty.edu/aat/300379403>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/2b1b8e03-3146-49b0-a8ca-8351f06ffe31> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/2b1b8e03-3146-49b0-a8ca-8351f06ffe31> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/d744846f-b12d-3fb0-bbfe-1618733a625f> .
 
@@ -3813,7 +3813,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/d238caae-cd60-499c-bcdf-1ac43e76f89f> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/d238caae-cd60-499c-bcdf-1ac43e76f89f> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/9992ef2f-5659-3fce-8f6e-fd39f72d5e1c> .
 
@@ -3828,7 +3828,7 @@
         <http://vocab.getty.edu/aat/300266192>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/b953a912-2e4e-425c-9307-5a2ac68e17ac> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/b953a912-2e4e-425c-9307-5a2ac68e17ac> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006922> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/86bdda65-8a01-37d3-9bb3-78bb59670c4c> .
 
@@ -3870,7 +3870,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/aef9aa9e-fba9-4b4a-939c-4ff5c09903f1> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/aef9aa9e-fba9-4b4a-939c-4ff5c09903f1> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/ee6f47d7-d410-3b7c-a065-5b5d2e99b524> .
 
@@ -3924,7 +3924,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/ebca48a0-6408-42d6-ab03-75aa63a5bb77> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/ebca48a0-6408-42d6-ab03-75aa63a5bb77> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/0e5586c5-c176-3dee-8b08-85aff4d80901> .
 
@@ -3939,7 +3939,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/bcae6e3a-807c-44c2-8273-f67028fd712e> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/bcae6e3a-807c-44c2-8273-f67028fd712e> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/ce0f1b14-92e0-3153-a62b-c002fb1fdc02> .
 
@@ -3961,7 +3961,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/7375c191-8f9b-4c8e-ab00-a8318b27a2f7> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/7375c191-8f9b-4c8e-ab00-a8318b27a2f7> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/edebd380-810f-3f37-89c2-bbab66a6708d> .
 
@@ -3993,7 +3993,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/5385002f-7a53-4225-9dc7-7d20579e9b96> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/5385002f-7a53-4225-9dc7-7d20579e9b96> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/4c6dbafa-8f20-3377-b4ce-c0d3ffdd4e6a> .
 
@@ -4022,7 +4022,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/67d17d01-ff37-4845-8789-a8e9e920de7f> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/67d17d01-ff37-4845-8789-a8e9e920de7f> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/c481dcec-9b9b-3669-a434-6695bd7f2343> .
 
@@ -4032,7 +4032,7 @@
     crm:P16_used_specific_object <https://linkeddata.cultureelerfgoed.nl/id/vgww/54ac1fd3-2c05-4769-9294-24681d04ed0d> ;
     crm:P1_is_identified_by <https://linkeddata.cultureelerfgoed.nl/id/vgww/27a8d940-b7d1-3e6d-a86b-736bce36b2d9> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300054687> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/5207103e-c495-46f2-83b8-03e4c3c5a608> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/5207103e-c495-46f2-83b8-03e4c3c5a608> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006922> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/40bdc449-b375-3c6b-9cb8-6dcaa7d34f29> .
 
@@ -4090,7 +4090,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/dfff67dc-0ab9-4227-beec-8705e4e55ee4> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/dfff67dc-0ab9-4227-beec-8705e4e55ee4> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/ef27c531-e0a0-3bc4-b81d-2eb9b087d19c> .
 
@@ -4122,7 +4122,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/dde7c850-3988-4f94-9b07-6c1f62803d3a> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/dde7c850-3988-4f94-9b07-6c1f62803d3a> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/20bca761-1a99-3871-b305-7a8f673412c7> .
 
@@ -4136,7 +4136,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/bbbbe7e4-2e9b-48b8-a30c-3f5ed8a5ed14> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/bbbbe7e4-2e9b-48b8-a30c-3f5ed8a5ed14> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/69ea7ab7-05db-348e-a605-0fdb4027ca64> .
 
@@ -4202,7 +4202,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/2ba34767-1abd-4150-985d-ab2e1985bd5d> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/2ba34767-1abd-4150-985d-ab2e1985bd5d> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/eb77c277-9991-314d-acb2-be4ef42897e3> .
 
@@ -4261,7 +4261,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/5baf033f-f0fe-4b93-a7fd-7d7fcbaa437a> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/5baf033f-f0fe-4b93-a7fd-7d7fcbaa437a> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006922> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/88bdda65-8a01-37d3-9bb3-78bb59670c4c> .
 
@@ -4275,7 +4275,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/bedafee9-2422-4a87-aed8-f6b44a5d82ee> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/bedafee9-2422-4a87-aed8-f6b44a5d82ee> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/2075e975-0e22-30b4-800e-a71b670ee224> .
 
@@ -4289,7 +4289,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/20a33126-01f0-47e7-a474-de7ab9653086> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/20a33126-01f0-47e7-a474-de7ab9653086> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/7fb86a2f-fd15-38c3-9c90-db6e726857b5> .
 
@@ -4371,7 +4371,7 @@
         <http://vocab.getty.edu/aat/300134722>,
         <http://vocab.getty.edu/aat/300379403>,
         <http://vocab.getty.edu/aat/300379828> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/99411107-8f8e-42cc-8ef9-a60ad9769d7e> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/99411107-8f8e-42cc-8ef9-a60ad9769d7e> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/235bae69-578d-3a25-9411-1e0b26e30929> .
 
@@ -4403,7 +4403,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/41c6be68-66f6-4edf-8ca3-d9f0949ef45f> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/41c6be68-66f6-4edf-8ca3-d9f0949ef45f> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/83bdda65-8a01-37d3-9bb3-78bb59670c4c> .
 
@@ -4418,7 +4418,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379403>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/21bc8654-8ab9-4ce6-827a-eb43af6a3e28> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/21bc8654-8ab9-4ce6-827a-eb43af6a3e28> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006922> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/6480c0ca-6a50-36dc-8b0b-0045753774b2> .
 
@@ -4466,7 +4466,7 @@
         <http://vocab.getty.edu/aat/300379418>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/6ebab045-ba73-4b25-bde6-22e1795fc1b4> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/6ebab045-ba73-4b25-bde6-22e1795fc1b4> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/acc3127a-5efc-3090-8095-6f5245a9c2a2> .
 
@@ -4497,7 +4497,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/b44eca08-b572-4126-ba75-c9d3ca40d2b8> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/b44eca08-b572-4126-ba75-c9d3ca40d2b8> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/a4646823-ef4d-3496-bbdd-3bbac0aa1fc7> .
 
@@ -4565,7 +4565,7 @@
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300379828>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/9a9fa7ee-8a19-47eb-8aae-978128b67b8b> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/9a9fa7ee-8a19-47eb-8aae-978128b67b8b> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006922> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/c1ababbd-20b4-35d3-9286-52c0cf26c2cd> .
 
@@ -4595,7 +4595,7 @@
     crm:P2_has_type <http://vocab.getty.edu/aat/300054687> ;
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300379403>,
         <http://vocab.getty.edu/aat/300379418> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/d9639d82-c873-4124-857d-bc46fb40674b> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/d9639d82-c873-4124-857d-bc46fb40674b> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/3432da3a-2551-3b85-91c3-2df90dea0999> .
 
@@ -4618,7 +4618,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/6d2e7f62-c4dd-41e7-a5ba-017059e39d0d> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/6d2e7f62-c4dd-41e7-a5ba-017059e39d0d> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/a9697d89-a76d-37cb-afb4-5ffd9d599020> .
 
@@ -4643,7 +4643,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/f2fe858f-5cbc-4ade-acc2-f5ef9b60d800> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/f2fe858f-5cbc-4ade-acc2-f5ef9b60d800> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/b1a15627-ba96-37aa-b915-166a7c99541a> .
 
@@ -4657,7 +4657,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/ca1bd9a7-7ed5-4581-bbbb-41c306d611ea> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/ca1bd9a7-7ed5-4581-bbbb-41c306d611ea> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/65c30c53-4c40-37d7-8013-b5e9b6f530f6> .
 
@@ -4678,7 +4678,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/23a3c3d5-0f5f-48ac-b69c-2a5f0b82cbe0> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/23a3c3d5-0f5f-48ac-b69c-2a5f0b82cbe0> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/cb057d66-9ef4-3f87-81ae-cf118c5d5459> .
 
@@ -4695,7 +4695,7 @@
         <http://vocab.getty.edu/aat/300379418>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/5195a97b-0134-4524-976f-ce381ccf472c> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/5195a97b-0134-4524-976f-ce381ccf472c> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/77f8b4d3-82b8-32e4-a841-d55b74e5d2f6> .
 
@@ -4755,7 +4755,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/6a8ba08d-5ec5-4849-82ef-bca95135d135> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/6a8ba08d-5ec5-4849-82ef-bca95135d135> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/68d8146c-db73-3b13-bdc3-ba64798164f1> .
 
@@ -4787,7 +4787,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/7fa89028-0368-45a2-acce-7c25e57f3424> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/7fa89028-0368-45a2-acce-7c25e57f3424> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/3121a90a-cabc-3320-a69e-95229ac1603a> .
 
@@ -4808,7 +4808,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/52658995-5c37-4a7d-9b24-cc408b3f2fda> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/52658995-5c37-4a7d-9b24-cc408b3f2fda> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/63fe5418-e4ea-334b-b944-471369d5e4fd> .
 
@@ -4833,7 +4833,7 @@
         <http://vocab.getty.edu/aat/300379418>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/6cbcef02-ed3a-4c5d-ad76-2b03ff6e5cd5> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/6cbcef02-ed3a-4c5d-ad76-2b03ff6e5cd5> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/f0e5147f-b71a-390d-bf3b-d3b2aee698a7> .
 
@@ -4847,7 +4847,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/183a458a-7b31-4c8b-ad6e-34efe6f8db39> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/183a458a-7b31-4c8b-ad6e-34efe6f8db39> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/b3b59efc-d1d6-3ff5-a78e-104d36217c82> .
 
@@ -4863,7 +4863,7 @@
         <http://vocab.getty.edu/aat/300379418>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/6fde2461-bd43-4c37-a7e3-0731549addc8> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/6fde2461-bd43-4c37-a7e3-0731549addc8> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/27437250-ac8d-3927-9327-69467166e020> .
 
@@ -4878,7 +4878,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/154ecf47-28a5-4614-b599-512d25d84c15> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/154ecf47-28a5-4614-b599-512d25d84c15> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/bb1f46fd-2b37-3c62-9540-f7ea75cee542> .
 
@@ -4894,7 +4894,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/4648356c-7a5d-4b21-8fac-7bccd447156f> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/4648356c-7a5d-4b21-8fac-7bccd447156f> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/788628ee-543e-340f-b669-59352be19bcf> .
 
@@ -4916,7 +4916,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/d680263f-cdac-4984-a2b3-e60cb9ac5ce5> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/d680263f-cdac-4984-a2b3-e60cb9ac5ce5> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/fb6fc247-d29c-3f2a-9eae-b59804fe6525> .
 
@@ -4941,7 +4941,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/c5d685f1-952f-413c-a09d-d18a140809c0> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/c5d685f1-952f-413c-a09d-d18a140809c0> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/dbd46790-8a48-3797-a8fa-dfef9cc21a2d> .
 
@@ -4973,7 +4973,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/e636a774-80e7-4935-a345-b20a3b181e6c> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/e636a774-80e7-4935-a345-b20a3b181e6c> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/f9cc301a-5bdb-3671-bf46-079c2ea62ffc> .
 
@@ -5004,7 +5004,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/a6610ef6-f6fb-42b0-86a0-80120f35c096> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/a6610ef6-f6fb-42b0-86a0-80120f35c096> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/1ba814b4-0616-34df-82d6-05a9aad181ec> .
 
@@ -5040,7 +5040,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/41e9d38e-118b-4824-a426-ed85d7db3bb9> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/41e9d38e-118b-4824-a426-ed85d7db3bb9> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/9646365d-43ec-3bd0-b55c-f31dcc3da668> .
 
@@ -5072,7 +5072,7 @@
     crm:P2_has_type <http://vocab.getty.edu/aat/300054687> ;
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300379418> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/cc72b6ab-af18-4c41-a642-f0465ee39d44> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/cc72b6ab-af18-4c41-a642-f0465ee39d44> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006922> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/dfb420ed-59e5-3718-ae21-a9fce76787e2> .
 
@@ -5093,7 +5093,7 @@
         <http://vocab.getty.edu/aat/300379418>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/843530e8-77fe-453c-906b-4ff3feb96f04> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/843530e8-77fe-453c-906b-4ff3feb96f04> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/e1177637-c181-3e4e-b70c-8b9a13761341> .
 
@@ -5123,7 +5123,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/5d07db4b-d64a-4d86-ab35-66abf140dc56> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/5d07db4b-d64a-4d86-ab35-66abf140dc56> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/83f49379-6f5c-3c37-b665-b3429b7f4e73> .
 
@@ -5146,7 +5146,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379418>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/167b1c8b-d2c5-43bd-ada7-3d9fda957deb> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/167b1c8b-d2c5-43bd-ada7-3d9fda957deb> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006922> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/3e6d6f06-019b-3fe4-941f-288cf290dd73> .
 
@@ -5178,7 +5178,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/546694bf-2f67-4155-a1c9-7383f13cb9c2> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/546694bf-2f67-4155-a1c9-7383f13cb9c2> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/0df4cf61-3870-3563-bb93-2e1bbe959ead> .
 
@@ -5211,7 +5211,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/43b94bfc-abbc-4beb-b3fd-571d8add1929> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/43b94bfc-abbc-4beb-b3fd-571d8add1929> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/c9fd1a84-d06e-3a39-bf71-eeec6aee7bd1> .
 
@@ -5226,7 +5226,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/42c36457-7750-49e4-a954-d590fe01b1f2> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/42c36457-7750-49e4-a954-d590fe01b1f2> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/85b2ae07-4a6d-3905-b037-c25c1cd3ee27> .
 
@@ -5242,7 +5242,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/3f6c7c6e-3ad2-484b-a251-aedee887d8c5> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/3f6c7c6e-3ad2-484b-a251-aedee887d8c5> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006922> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/87bdda65-8a01-37d3-9bb3-78bb59670c4c> .
 
@@ -5283,7 +5283,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/1ff08f5a-325f-4550-9a1d-91d2a465d6cc> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/1ff08f5a-325f-4550-9a1d-91d2a465d6cc> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/8ca7588b-59b9-39d7-a594-050f35a73043> .
 
@@ -5296,7 +5296,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/b8562934-b7c6-40a8-a4a5-9741ae9f0a8b> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/b8562934-b7c6-40a8-a4a5-9741ae9f0a8b> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/6f8bb479-7844-313e-9b40-a5236ac1e3f7> .
 
@@ -5336,7 +5336,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/3e3edc8b-102c-460b-b376-ff0e9ef4159f> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/3e3edc8b-102c-460b-b376-ff0e9ef4159f> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/56ae1358-7595-3334-b64a-d66a296bbb67> .
 
@@ -5386,7 +5386,7 @@
         <http://vocab.getty.edu/aat/300214726>,
         <http://vocab.getty.edu/aat/300379418>,
         <http://vocab.getty.edu/aat/300379487> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/de56cdca-577a-45b5-8ac5-27b3302b4d2d> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/de56cdca-577a-45b5-8ac5-27b3302b4d2d> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/dfe40f83-0b9c-34a4-a50b-1e9300d39b26> .
 
@@ -5465,7 +5465,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/5396ef78-eafc-4de3-b1de-500f2e4a4727> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/5396ef78-eafc-4de3-b1de-500f2e4a4727> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/6d23b98a-48fd-3518-a890-95b70c87c69a> .
 
@@ -5509,7 +5509,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300214726>,
         <http://vocab.getty.edu/aat/300379403> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/dfc5e3ed-8891-4af0-9d7b-f4cd8c2b1d7a> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/dfc5e3ed-8891-4af0-9d7b-f4cd8c2b1d7a> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/a1ff2e98-8f5f-34e2-a907-8e6de9dffe75> .
 
@@ -5542,7 +5542,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/ac8bf3e4-94bb-4df1-852d-2c962b8c14ea> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/ac8bf3e4-94bb-4df1-852d-2c962b8c14ea> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/c03e51ed-8373-38c6-b93a-6bd134f050ac> .
 
@@ -5616,7 +5616,7 @@
         <http://vocab.getty.edu/aat/300379403>,
         <http://vocab.getty.edu/aat/300379418>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/3204369a-dfbf-4a33-bd23-623fe84b2162> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/3204369a-dfbf-4a33-bd23-623fe84b2162> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/971e7f55-61ab-3431-8752-174c8e2f266d> .
 
@@ -5632,7 +5632,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/5a60ba51-f0b2-4878-9d9b-20d3703685af> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/5a60ba51-f0b2-4878-9d9b-20d3703685af> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/92419367-3a1f-3cc3-b020-e1c78e367233> .
 
@@ -5675,7 +5675,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/8b5b2367-25b4-48d3-8c70-70ec7b017eae> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/8b5b2367-25b4-48d3-8c70-70ec7b017eae> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/273cfcb4-5c06-30c0-8361-3c0df1cfa4d0> .
 
@@ -5706,7 +5706,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/884bc657-65af-4288-a3cc-590d77403611> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/884bc657-65af-4288-a3cc-590d77403611> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/6cd997c8-4ca8-385e-a1ce-b9f3e59d6b3e> .
 
@@ -5728,7 +5728,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/95751e60-6860-4be0-8254-091b8e20b092> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/95751e60-6860-4be0-8254-091b8e20b092> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/dbc5612f-4853-3c6d-afc2-e97214261ca4> .
 
@@ -5798,7 +5798,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/a539e34c-ff43-4077-9d4c-c90713b2fb04> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/a539e34c-ff43-4077-9d4c-c90713b2fb04> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/a5f49729-9639-364e-8262-d053bf59686b> .
 
@@ -5812,7 +5812,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/c275d43f-83f5-4549-b306-10461be0d847> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/c275d43f-83f5-4549-b306-10461be0d847> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/0fcf1cb9-6d78-3114-a98f-0447cddd17c3> .
 
@@ -5826,7 +5826,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/86f6ca45-692d-4b92-be80-c367efd8104e> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/86f6ca45-692d-4b92-be80-c367efd8104e> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/5cb6fc9b-1c36-3d2b-94c2-6ab97c650762> .
 
@@ -5840,7 +5840,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/abdee385-9ea3-4cbb-a81d-3f13dfa7cf94> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/abdee385-9ea3-4cbb-a81d-3f13dfa7cf94> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/ecd857f8-c34f-3781-841a-fa58b9cf86ea> .
 
@@ -5855,7 +5855,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379418>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/7f6f8321-0ecf-4159-a5ba-aaebdbe3ea1a> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/7f6f8321-0ecf-4159-a5ba-aaebdbe3ea1a> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/fede1d5f-a9a3-3185-996f-92da78bed3c5> .
 
@@ -5905,7 +5905,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/d8ac1464-a18d-407f-8145-5f44771f9ea2> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/d8ac1464-a18d-407f-8145-5f44771f9ea2> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/10494ff0-abca-34f8-a457-893df7eef43c> .
 
@@ -5921,7 +5921,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/2736263c-11ed-4b91-9e92-94774aab8df2> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/2736263c-11ed-4b91-9e92-94774aab8df2> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/e3382ba8-3855-39e6-8466-2650decdaa08> .
 
@@ -5951,7 +5951,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/1c70be32-31f5-4349-927c-e1b2e067ad36> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/1c70be32-31f5-4349-927c-e1b2e067ad36> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/caf59caa-2cd8-3b1d-9a56-e763073c9335> .
 
@@ -5974,7 +5974,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/ec92935a-b2a2-48d3-b9d5-830203c4146c> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/ec92935a-b2a2-48d3-b9d5-830203c4146c> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006922> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/85bdda65-8a01-37d3-9bb3-78bb59670c4c> .
 
@@ -5988,7 +5988,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/b67bba80-5d83-4ae1-bcc0-0fbb08f12333> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/b67bba80-5d83-4ae1-bcc0-0fbb08f12333> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/87e8aa85-d8df-3720-b137-8fcf92e72ccb> .
 
@@ -6002,7 +6002,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/503f8d33-f186-4fd3-b01d-519fa49db842> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/503f8d33-f186-4fd3-b01d-519fa49db842> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/eebb8c2b-bea4-3573-b24a-f44a97e57dea> .
 
@@ -6022,7 +6022,7 @@
         <http://vocab.getty.edu/aat/300379418>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/da4e5552-0a11-481d-a601-1f2ad4f62338> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/da4e5552-0a11-481d-a601-1f2ad4f62338> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/bc6e4a1a-de5a-34cc-b048-538e5dd5b525> .
 
@@ -6179,7 +6179,7 @@
         <http://vocab.getty.edu/aat/300379403>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/4d51e9b6-e79f-4080-aff5-f1a6e5ca99a3> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/4d51e9b6-e79f-4080-aff5-f1a6e5ca99a3> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006922> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/89bdda65-8a01-37d3-9bb3-78bb59670c4c> .
 
@@ -6193,7 +6193,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/c5dcd785-98fc-406c-ae74-91c0eb03e197> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/c5dcd785-98fc-406c-ae74-91c0eb03e197> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/0b896d90-7282-31da-90f7-16dd5ba25964> .
 
@@ -6218,7 +6218,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/245a8325-06f0-46be-884d-bb6285054062> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/245a8325-06f0-46be-884d-bb6285054062> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/2003030a-d189-3b59-9e76-d05a468283a4> .
 
@@ -6231,7 +6231,7 @@
     crm:P1_is_identified_by <https://linkeddata.cultureelerfgoed.nl/id/vgww/cfe21d7e-8f2f-3538-8a8d-e45798471ffc> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300054687> ;
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300379403> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/e97ff44f-ab9a-44a6-90be-cc674969ed53> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/e97ff44f-ab9a-44a6-90be-cc674969ed53> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/807f4367-4b83-3881-b785-445f06273d71> .
 
@@ -6280,7 +6280,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/e20611a3-f2d0-4538-8155-61a68ba9fa1f> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/e20611a3-f2d0-4538-8155-61a68ba9fa1f> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006922> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/ac845e71-bc79-35c2-9018-4a0a9d9489d6> .
 
@@ -6294,7 +6294,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/74956a86-78ea-44f7-99ae-3c3acbfc4cad> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/74956a86-78ea-44f7-99ae-3c3acbfc4cad> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/01d1c482-bd46-3780-bb77-f9aa96e773e5> .
 
@@ -6355,7 +6355,7 @@
         <http://vocab.getty.edu/aat/300379403>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/a13646c7-3a31-4b21-8437-02f4cd01b85a> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/a13646c7-3a31-4b21-8437-02f4cd01b85a> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/70071580-5b3f-3c3b-929b-ea7060eb7bac> .
 
@@ -6369,7 +6369,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/732a798a-067a-4f4d-b1d8-e576b8dc08c7> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/732a798a-067a-4f4d-b1d8-e576b8dc08c7> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/1954d5b0-fc78-358d-8381-53cfd773cc3d> .
 
@@ -6410,7 +6410,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/5eb87d2d-d6d4-4840-8713-2d8a86b36685> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/5eb87d2d-d6d4-4840-8713-2d8a86b36685> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/72a49e88-b7d3-3144-91b3-2e90899613d6> .
 
@@ -6435,7 +6435,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379403>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/21dd24d0-ea7d-4de5-904c-211679800bea> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/21dd24d0-ea7d-4de5-904c-211679800bea> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006922> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/419f108c-b75c-3cc3-8efa-a03fd32a2149> .
 
@@ -6470,7 +6470,7 @@
     crm:P2_has_type <http://vocab.getty.edu/aat/300054687> ;
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300379403>,
         <http://vocab.getty.edu/aat/300379418> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/cac30418-3678-4d54-b3e0-ff0be56ae4dd> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/cac30418-3678-4d54-b3e0-ff0be56ae4dd> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/a363954c-ca95-30e9-b7ba-5f05c9961e62> .
 
@@ -6543,7 +6543,7 @@
         <http://vocab.getty.edu/aat/300224161>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/26096ec3-4144-4c87-8c00-c3206c101486> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/26096ec3-4144-4c87-8c00-c3206c101486> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/df24752f-abd9-37fd-a428-161b057f81da> .
 
@@ -6557,7 +6557,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/1824f1ee-da92-4b38-b46e-b6c3a69f3548> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/1824f1ee-da92-4b38-b46e-b6c3a69f3548> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/27ab342e-e270-3f3f-a933-3c960954283b> .
 
@@ -6571,7 +6571,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/d0a6e89d-de87-4005-a4e1-918a9e1613eb> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/d0a6e89d-de87-4005-a4e1-918a9e1613eb> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/20e454a7-f22a-308a-8452-afa671f0db37> .
 
@@ -6668,7 +6668,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/db88ed8a-45a8-4b41-993e-4c5d880a72de> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/db88ed8a-45a8-4b41-993e-4c5d880a72de> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006922> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/84bdda65-8a01-37d3-9bb3-78bb59670c4c> .
 
@@ -6690,7 +6690,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/c2dfa1fd-31fb-4bc9-bcbb-ed158079288b> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/c2dfa1fd-31fb-4bc9-bcbb-ed158079288b> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/325f4d33-604b-3c7e-860c-bf844fca1536> .
 
@@ -6715,7 +6715,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/0ec61793-2ce8-4856-9f87-d6f02c3c2a5d> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/0ec61793-2ce8-4856-9f87-d6f02c3c2a5d> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/820809d2-74a2-34aa-9b7a-1afc2196c97f> .
 
@@ -6737,7 +6737,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/b7526c5a-0f1c-4283-8c45-f754be0349e1> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/b7526c5a-0f1c-4283-8c45-f754be0349e1> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/aa9ab97f-6d70-31cc-9625-e2003a7e17f4> .
 
@@ -6753,7 +6753,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/07e8e782-8589-4bb0-85d8-bc4c315cb113> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/07e8e782-8589-4bb0-85d8-bc4c315cb113> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/cc798bd8-fdd3-309d-8513-71d933b22aad> .
 
@@ -6777,7 +6777,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/db8d3f2a-02dd-4af4-bd34-988b3de0f2bd> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/db8d3f2a-02dd-4af4-bd34-988b3de0f2bd> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/26d092a5-9603-3f7c-abaa-a03f21076cab> .
 
@@ -6821,7 +6821,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/f2e53095-8c84-4325-9824-9235526a46f6> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/f2e53095-8c84-4325-9824-9235526a46f6> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/72c94c90-1cac-323e-8934-fd35357d9d4d> .
 
@@ -6837,7 +6837,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/e7c65069-b5a3-4467-9397-f60d2b7977cd> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/e7c65069-b5a3-4467-9397-f60d2b7977cd> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/2b0d27d7-2301-3fb3-b841-21f48ffa31f8> .
 
@@ -6871,7 +6871,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/d5eb85a7-b7de-46ae-9918-f4e21285b1f6> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/d5eb85a7-b7de-46ae-9918-f4e21285b1f6> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/81fe4330-d792-34d0-a7d6-4524c5ad07f6> .
 
@@ -6894,7 +6894,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/bfe40dab-7b68-49e9-be19-2ac4d70860e9> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/bfe40dab-7b68-49e9-be19-2ac4d70860e9> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/4a74ea02-96db-361d-aa4f-484c8e573f55> .
 
@@ -6947,7 +6947,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/3b0d3e4d-0c1a-4ad0-9aaf-a5796c773027> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/3b0d3e4d-0c1a-4ad0-9aaf-a5796c773027> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/484e99db-08fc-356c-b99f-75e364234861> .
 
@@ -6977,7 +6977,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/ea135aa1-faea-48f8-bb17-40b90d97d980> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/ea135aa1-faea-48f8-bb17-40b90d97d980> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/c2f25837-eb16-3028-8b63-1c93e779df2f> .
 
@@ -7066,7 +7066,7 @@
     crm:P1_is_identified_by <https://linkeddata.cultureelerfgoed.nl/id/vgww/c1ce8c0b-5e4e-3b4e-a7a0-999275481c73> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300054687> ;
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300224161> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/696f498c-bea3-4748-bcba-5c3fd808ed8a> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/696f498c-bea3-4748-bcba-5c3fd808ed8a> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006922> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/7c91e2aa-5b69-36fd-adac-386ff5d573d5> .
 
@@ -7080,7 +7080,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/d63ea090-6ebb-4769-91d2-7427ae2636e1> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/d63ea090-6ebb-4769-91d2-7427ae2636e1> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/3cd50911-9f45-396f-8b90-03d026cf4961> .
 
@@ -7114,7 +7114,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/f15c0c93-0035-4529-918a-118c0066e78b> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/f15c0c93-0035-4529-918a-118c0066e78b> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/4f473452-735a-3284-9067-8d8d9a088ed1> .
 
@@ -7159,7 +7159,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/d39845ee-7d42-4bab-b3ef-348cd3306434> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/d39845ee-7d42-4bab-b3ef-348cd3306434> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/c110a606-e592-3d8c-add2-48f8b0a637f8> .
 
@@ -7173,7 +7173,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/2b3e7ce4-5d54-49b7-a038-d7576c51bc42> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/2b3e7ce4-5d54-49b7-a038-d7576c51bc42> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/d69c08e9-ba68-3a6c-8fb4-b2fe6f1f09f7> .
 
@@ -7258,7 +7258,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/9db60316-92be-403c-a95c-f3f83ad75053> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/9db60316-92be-403c-a95c-f3f83ad75053> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/046ea4b5-227c-385d-8811-2226247f6a90> .
 
@@ -7286,7 +7286,7 @@
         <http://vocab.getty.edu/aat/300379418>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/c878095f-11f3-4001-97b2-8bdd8685b6be> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/c878095f-11f3-4001-97b2-8bdd8685b6be> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/e59c0158-768f-3a3d-91ed-93932c82e305> .
 
@@ -7310,7 +7310,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/52c910ea-1910-49e3-a03b-bbc14bdb4a9f> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/52c910ea-1910-49e3-a03b-bbc14bdb4a9f> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/7e385d3a-bd77-318e-a0fb-680fa0ee7364> .
 
@@ -7324,7 +7324,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/baa80f66-b846-4501-8f9c-d414646a31ca> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/baa80f66-b846-4501-8f9c-d414646a31ca> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/22f8c3ff-ddbc-3f14-b440-e50a17125a42> .
 
@@ -7362,7 +7362,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300233218>,
         <http://vocab.getty.edu/aat/300379538> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/78c3175a-fa15-4453-8490-a5ab23acb550> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/78c3175a-fa15-4453-8490-a5ab23acb550> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/c2afe282-af4b-36c9-b5e3-191aa5381a4c> .
 
@@ -7440,7 +7440,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/fd616f7a-952c-4df4-a1a6-e6fa3747e336> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/fd616f7a-952c-4df4-a1a6-e6fa3747e336> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/bb688d9e-c303-3333-a1b6-fc423904c388> .
 
@@ -7486,7 +7486,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379403>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/3b6a838e-5863-4f14-9caa-96d096ea94c5> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/3b6a838e-5863-4f14-9caa-96d096ea94c5> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006922> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/4e1770b5-89a2-35e3-88ff-8ef69ee603c3> .
 
@@ -7502,7 +7502,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379418>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/0bf39d41-ae51-4016-9d20-18c898ade5a4> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/0bf39d41-ae51-4016-9d20-18c898ade5a4> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/e36d6804-5670-3059-b9e9-3187f163652e> .
 
@@ -7534,7 +7534,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/dc95c8f9-f308-47b9-a37f-124846bee859> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/dc95c8f9-f308-47b9-a37f-124846bee859> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/b5b45512-acf4-37c7-82e4-780f802ec459> .
 
@@ -7568,7 +7568,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/4560ec3e-e2bb-4029-9be0-44e57a83369d> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/4560ec3e-e2bb-4029-9be0-44e57a83369d> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/6c7ecb14-3670-3806-98d1-080fcac5e9ee> .
 
@@ -7582,7 +7582,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/6b96c00b-e901-43d3-9811-d240cb13b906> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/6b96c00b-e901-43d3-9811-d240cb13b906> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/9a2fd398-ceee-321a-99de-c1e0f03239a5> .
 
@@ -7667,7 +7667,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/5021feea-f0fa-48d8-981c-262356e006ca> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/5021feea-f0fa-48d8-981c-262356e006ca> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/2f9b9dcf-4f35-32a4-916c-e79579ca2082> .
 
@@ -7717,7 +7717,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/3fa3740b-0e1c-4411-90b8-e42766776312> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/3fa3740b-0e1c-4411-90b8-e42766776312> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/640242b8-377b-3b77-95d3-ce845e79f9e8> .
 
@@ -7733,7 +7733,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/b16390f3-9d98-40f8-9f3c-4e6b5fb61aa2> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/b16390f3-9d98-40f8-9f3c-4e6b5fb61aa2> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/a0eb3de2-d34e-3c9b-ac44-13e95659f674> .
 
@@ -7747,7 +7747,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/21475889-e2da-4040-8183-b377fc1e68d7> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/21475889-e2da-4040-8183-b377fc1e68d7> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/d0b588fc-670e-38a6-a3ea-68e6df757d39> .
 
@@ -7809,7 +7809,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/544d48e8-fc71-4069-a4c4-28865bd2604b> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/544d48e8-fc71-4069-a4c4-28865bd2604b> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/a0fc316b-c212-30e2-9aaa-d2085c3dfc70> .
 
@@ -7834,7 +7834,7 @@
         <http://vocab.getty.edu/aat/300214726>,
         <http://vocab.getty.edu/aat/300379403>,
         <http://vocab.getty.edu/aat/300379661> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/ed0d9173-ff52-43a3-a609-97dbb6e7d462> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/ed0d9173-ff52-43a3-a609-97dbb6e7d462> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/14fd66ac-1226-3f9b-ba84-035966919152> .
 
@@ -7849,7 +7849,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379661>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/19a0f07e-e43c-49ac-b386-e333864d4923> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/19a0f07e-e43c-49ac-b386-e333864d4923> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/b42cf3d9-0a2f-3df7-8579-1ef3def1b7d2> .
 
@@ -7903,7 +7903,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/594728bc-0a38-40ad-880c-5ce2555d15bf> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/594728bc-0a38-40ad-880c-5ce2555d15bf> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/e6ec0715-eb52-353c-b6ec-09dce46ec822> .
 
@@ -7951,7 +7951,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/a790777c-ec19-4f55-9f3d-44c40a07a7ed> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/a790777c-ec19-4f55-9f3d-44c40a07a7ed> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/5dedb19c-445c-3788-ba8e-3fad5251c3e8> .
 
@@ -8005,7 +8005,7 @@
     crm:P2_has_type <http://vocab.getty.edu/aat/300054687> ;
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300214726>,
         <http://vocab.getty.edu/aat/300379403> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/c68caabb-d101-4c1c-a697-18d02c6d6b4f> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/c68caabb-d101-4c1c-a697-18d02c6d6b4f> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/a7c5dadd-60e8-34e2-895d-f55e3fe0aaaa> .
 
@@ -8020,7 +8020,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379403>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/b271c001-8f31-4ed5-8d08-7caa853f4a57> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/b271c001-8f31-4ed5-8d08-7caa853f4a57> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/9bb3d8a6-7045-30ef-805e-1b86c3cd46b5> .
 
@@ -8035,7 +8035,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/65e43541-0b83-4075-ade6-9d9a8b1f2d45> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/65e43541-0b83-4075-ade6-9d9a8b1f2d45> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/e6c42515-b128-340e-92a1-c6bf83de586d> .
 
@@ -8095,7 +8095,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/490ad0e5-b79f-409a-b900-928a412e4bef> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/490ad0e5-b79f-409a-b900-928a412e4bef> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/d94d05b1-2396-34c3-ac25-4c172a618cbe> .
 
@@ -8112,7 +8112,7 @@
         <http://vocab.getty.edu/aat/300379418>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/dd3c2c50-ace0-4103-acc2-2cb8a48191d9> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/dd3c2c50-ace0-4103-acc2-2cb8a48191d9> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/d4c30c1e-5450-3206-96d1-d236b58bfb95> .
 
@@ -8141,7 +8141,7 @@
         <http://vocab.getty.edu/aat/300379403>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/49714f46-6dd2-4fae-a1c1-17c740962f54> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/49714f46-6dd2-4fae-a1c1-17c740962f54> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006922> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/3321290b-9345-3757-8b21-8b84b078646e> .
 
@@ -8163,7 +8163,7 @@
         <http://vocab.getty.edu/aat/300379418>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/56b5892f-7f17-4589-91e8-799f158c3a7f> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/56b5892f-7f17-4589-91e8-799f158c3a7f> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/0a8c50bf-3c93-3d8d-83f5-888cba329e42> .
 
@@ -8222,7 +8222,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/624cb036-b7e1-41ed-9b17-4164c08e66f0> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/624cb036-b7e1-41ed-9b17-4164c08e66f0> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/9ebc868b-7f24-3635-8e95-73c7503fd53d> .
 
@@ -8256,7 +8256,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/471b6f2f-ba4e-4e39-a95e-9636868bae48> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/471b6f2f-ba4e-4e39-a95e-9636868bae48> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/efdc5c7a-92b6-37f8-989b-570a7cc75dc6> .
 
@@ -8290,7 +8290,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/cf92c992-3ef4-492a-9b88-d3d5e517329d> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/cf92c992-3ef4-492a-9b88-d3d5e517329d> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/33f3982c-a879-3c34-bd98-2d7d7f142d3c> .
 
@@ -8330,7 +8330,7 @@
     crm:P1_is_identified_by <https://linkeddata.cultureelerfgoed.nl/id/vgww/24113e4a-6023-3422-a412-d0f4cdba90b2> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300054687> ;
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300224161> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/badc6025-d005-41a6-b075-1dde9f4fc3f8> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/badc6025-d005-41a6-b075-1dde9f4fc3f8> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006922> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/6f8b07cb-36f0-3517-8518-24d08efecb30> .
 
@@ -8344,7 +8344,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/6fdaa9be-54fc-4ffd-997d-c49320b208d1> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/6fdaa9be-54fc-4ffd-997d-c49320b208d1> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/80ab83e2-980d-3043-ac35-9e27c3457078> .
 
@@ -8367,7 +8367,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/b375128b-ad84-48dd-8c71-8c189600ff5e> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/b375128b-ad84-48dd-8c71-8c189600ff5e> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/17642dd5-23ad-3993-9400-670bde70b520> .
 
@@ -8383,7 +8383,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/ead4818b-f9a2-4c03-af17-f425cb104a19> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/ead4818b-f9a2-4c03-af17-f425cb104a19> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/3f31330a-09a7-38ed-99de-8924ccb06907> .
 
@@ -8415,7 +8415,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/00c8bb5e-43db-43b7-99c9-0f093455f19a> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/00c8bb5e-43db-43b7-99c9-0f093455f19a> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/ce1459b3-c6b5-372d-a7d7-80f2a7feb5df> .
 
@@ -8469,7 +8469,7 @@
         <http://vocab.getty.edu/aat/300214726>,
         <http://vocab.getty.edu/aat/300233218>,
         <http://vocab.getty.edu/aat/300379661> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/2bdd0240-b5ba-48df-9f0a-22d50b2c6cc6> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/2bdd0240-b5ba-48df-9f0a-22d50b2c6cc6> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/91acf07b-80ef-3fde-9e6f-6a00069d1239> .
 
@@ -8509,7 +8509,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/296a8880-30b9-4a8b-a74a-86dd7cc276e5> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/296a8880-30b9-4a8b-a74a-86dd7cc276e5> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/65363a2a-0b91-3ccb-b2bf-7eeb2a3514c3> .
 
@@ -8524,7 +8524,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/9d67e4e3-f540-4085-9180-3b8e4d03d1fa> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/9d67e4e3-f540-4085-9180-3b8e4d03d1fa> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/ddebe2a9-2319-3d8e-af27-3bf63d257669> .
 
@@ -8596,7 +8596,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/86a91c56-3709-4118-97e2-b0c1816957a5> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/86a91c56-3709-4118-97e2-b0c1816957a5> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/fbe65a22-c344-3d8c-86df-fa9678587cc3> .
 
@@ -8610,7 +8610,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/718f211c-df6a-4993-bce2-7f529f7f54d6> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/718f211c-df6a-4993-bce2-7f529f7f54d6> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/d141ef5c-b68b-343c-8a75-19c5d6302169> .
 
@@ -8636,7 +8636,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/d0e51de1-416e-4602-b933-73bf0f1b3156> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/d0e51de1-416e-4602-b933-73bf0f1b3156> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/d6f27909-01f1-381d-bc69-cb9c5d6f0018> .
 
@@ -8706,7 +8706,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379487>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/999c3595-0f25-4abd-809f-338f8477690e> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/999c3595-0f25-4abd-809f-338f8477690e> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/fb948d89-0b18-3238-8882-f80db385b7df> .
 
@@ -8747,7 +8747,7 @@
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300379403>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/f86014c7-d0a8-452a-a74b-a1bb7ef87cf2> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/f86014c7-d0a8-452a-a74b-a1bb7ef87cf2> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006922> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/c40ec4e4-e7a9-33ee-9b65-b11cbc428f29> .
 
@@ -8786,7 +8786,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/a720cfcc-8191-44d0-962c-b4a78a960b35> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/a720cfcc-8191-44d0-962c-b4a78a960b35> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/db1892b0-8c7a-3c1c-ac04-7231b3e65664> .
 
@@ -8800,7 +8800,7 @@
     crm:P32_used_general_technique <http://vocab.getty.edu/aat/300054100>,
         <http://vocab.getty.edu/aat/300343819>,
         <http://vocab.getty.edu/aat/300417457> ;
-    crm:P4_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/f474edea-dc25-463d-9e03-ec3a6f4cbe79> ;
+    crm:P4_has_time-span <https://linkeddata.cultureelerfgoed.nl/id/vgww/f474edea-dc25-463d-9e03-ec3a6f4cbe79> ;
     crm:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> ;
     crm:P94_has_created <https://linkeddata.cultureelerfgoed.nl/id/vgww/fa943374-606c-3b00-8a89-11bf4f0ae57a> .
 
